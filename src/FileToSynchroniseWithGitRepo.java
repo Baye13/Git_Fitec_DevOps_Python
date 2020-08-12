@@ -9,6 +9,4 @@ public class FileToSynchroniseWithGitRepo {
 	//Third commit
 	public int _thirdField;
 	
-	//Four commit
-	public int _fourField;
 }
